@@ -1,0 +1,47 @@
+[
+    {
+        "animeName": "Fullmetal Alchemist",
+        "animeImagen": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/0662921aa3b81ff85737ddeb56deefab.jpe",
+        "animeEscritor": "Hiromu Arakawa",
+        "animeEstado":"Finalizado",
+        "animeGenero": [
+            "Aventura",
+            "Fantasia"
+        ]
+    },
+    {
+        "animeName": "Naruto Shippūden",
+        "animeImagen": "https://i.pinimg.com/736x/bc/7a/de/bc7adee823853259c5ddb61b755dbe9e.jpg",
+        "animeEscritor": "Masashi Kishimoto",
+        "animeEstado": "Finalizado",
+        "animeGenero": [
+            "Aventura",
+            "Artes Marciales",
+            "Accion",
+            "Comedia"
+        ]
+    },
+    {
+        "animeName": "Death Note",
+        "animeImagen": "https://moviepostermexico.com/cdn/shop/files/riuka-42_1024x1024@2x.webp?v=1687359263",
+        "animeEscritor": "Tsugumi Ōba",
+        "animeEstado": "En emision",
+        "animeGenero": [
+            "Misterio",
+            "Sobrenatural",
+            "Thriller"
+        ]
+    }
+    ,
+    {
+        "animeName": "Kimetsu no Yaiba",
+        "animeImagen": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/9b22fdc9b3c0a5e0c6373adba8b7ac61.jpe",
+        "animeEscritor": "Koyoharu Gotōge",
+        "animeEstado": "En emision",
+        "animeGenero": [
+            "Aventura",
+            "Accion",
+            "Fantasia Oscura"
+        ]
+    }
+]
